@@ -1,1 +1,1 @@
-# Udacity-SQL
+# Business Analytics Nanodegree
